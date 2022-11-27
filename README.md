@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oxygen-hunter, a second year doctoral student at MOSS Group, CS Department, Nanjing University.
 - 👨‍🏫 I'm under the supervision of Professor [Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm). 
 - 👀 I’m interested in parallel computing, edge computing, reverse engineering.
-- 💪 I like badminton, swimming, powerlifting, Moba Games in my spare time.
+- 💪 I like badminton, swimming, powerlifting, moba games in my spare time.
 - 🌱 I’m currently learning different parallel models including Cuda, OpenACC, OpenCL, OpenMP and etc..
 - 💞️ I’m looking to collaborate on `AI` x `Classic Security Problems`.
 - 📫 Reach me at xiao.li@smail.nju.edu.cn
